@@ -2,6 +2,7 @@
     "name": "lucas.galindo/teste",
     "description": "criação do autoload",
     "type": "composer-plugin",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "LucasGalindo\\Teste\\": ["model/", "controller/"]
