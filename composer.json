@@ -1,7 +1,7 @@
 {
     "name": "lucas.galindo/teste",
     "description": "criação do autoload",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
