@@ -1,0 +1,9 @@
+{
+    "name": "lucas.galindo/teste",
+    "autoload": {
+        "psr-4": {
+            "LucasGalindo\\Teste\\": ["model/", "controller/"]
+        }
+    },
+    "require": {}
+}
